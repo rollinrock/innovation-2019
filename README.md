@@ -27,3 +27,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+
+高德地图amap的vue库文档地址：
+https://elemefe.github.io/vue-amap/#/zh-cn/introduction/install
