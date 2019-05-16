@@ -6,10 +6,10 @@
     <body>
       <div class="container">
         <div class="row">
-          <div class="col-3">
+          <div class="district-explorer-container col-4">
             <district-explorer></district-explorer>
           </div>
-          <div class="search-map-container col-9">
+          <div class="search-map-container col-8">
             <search-map></search-map>
           </div>
         </div>
